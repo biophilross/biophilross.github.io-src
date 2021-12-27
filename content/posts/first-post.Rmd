@@ -1,9 +1,29 @@
 ---
 author: Philipp Ross
 date: "2021-12-26"
-description: My first post
+description: Readings to come back to
 tags:
-title: My first post
+title: Reads
 ---
 
-Just making sure this works
+These are readings I would like to remember and come back to from time to time and will be updated on occasion. 
+
+[The bus ticket theory of genius]
+
+A trilogy on human genetics
+
+* [Our vast, shared family tree]
+* [Your ancestors lived all over the world]
+* [Where did your genetic ancestors come from?]
+
+Beware adaptationist story-telling: [The spandrels of San Marco]
+
+[The viruses that made us human]
+
+
+[The bus ticket theory of genius]: http://www.paulgraham.com/genius.html
+[Our vast, shared family tree]: https://gcbias.org/2017/11/20/our-vast-shared-family-tree/
+[Your ancestors lived all over the world]: https://gcbias.org/2017/11/28/your-ancestors-lived-all-over-the-world/
+[Where did your genetic ancestors come from?]: https://gcbias.org/2017/12/19/1628/
+[The spandrels of San Marco]: https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1979.0086
+[The viruses that made us human]:https://www.pbs.org/wgbh/nova/article/endogenous-retroviruses/

@@ -1,14 +1,15 @@
 ---
-{}
+title: Home
 ---
 
 
-Hi, my name is **Philipp Ross** and I am currently a doctoral candidate at the [University of Chicago].
+Hi, my name is **Philipp Ross** and I am currently a PhD candidate at the [University of Chicago].
 
 I am part of the [Genetics, Genomics, and Systems Biology (GGSB)] program and am interested in molecular puzzles.
 
 Currently, as a member of the [Adams Lab], I work to understand the balance between fetal tolerance and pathogen protection at the maternal-fetal interface in humans and non-human primates.
 
+Opinions expressed here do not necessarily represent those of my employer or vice versa.
 
 
 [University of Chicago]: https://www.uchicago.edu/
