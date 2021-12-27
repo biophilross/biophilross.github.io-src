@@ -4,7 +4,7 @@ html, body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #27a822;
+  border-top: 3px solid #2962ff;
 }
 
 /* Wrapper for page content to push down footer */
@@ -32,6 +32,11 @@ html, body {
 .navbar .navbar-text,
 .navbar-toggler {
   color: #6b6b6b;
+}
+
+.navbar .navbar-nav > li > a:hover,
+.navbar .navbar-nav > li > a:focus {
+  color: #2962ff;
 }
 
 .navbar-nav > .active > a,
@@ -78,12 +83,12 @@ html, body {
 }
 
 .container a {
-  color: #27a822;
+  color: #2962ff;
   text-decoration: none;
 }
 
 .container a:hover {
-  color: #267723;
+  color: #122a6e;
 }
 
 .container p img,
@@ -155,7 +160,7 @@ h5 a:hover {
 }
 
 .social-links li a:hover {
-  color: #000;
+  color: #2962ff;
 }
 
 .avatar {
