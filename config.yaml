@@ -17,13 +17,14 @@ params:
     Email: philross@uchicago.edu
     Github: biophilross
     LinkedIn: philippross
+    Scholar: cairIiQAAAAJ
     RSS: /posts/index.xml
     Twitter: biophilross
 menu:
   main:
-    - identifier: publications
-      name: publications
-      url: /publications/
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 100
     - identifier: posts
       name: posts

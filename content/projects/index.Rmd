@@ -1,0 +1,37 @@
+---
+author: Philipp Ross
+description: What I've worked on
+date: "2021-12-27"
+title: Projects
+---
+
+### Molecular immunology in the [Adams Lab]
+
+Coming soon!
+
+### *Plasmodium* computational genomics in the [Llinás Lab]
+
+As a member of the **Llinás Lab** I contributed to work in understanding transcriptional regulation in the deadliest human infecting parasite that causes malaria, *Plasmodium falciparum*.
+
+Primary contributions resulted in the following publications:
+
+* [Red Blood Cell Invasion by the Malaria Parasite Is Coordinated by the PfAP2-I Transcription Factor][AP2I]
+* [Refining the transcriptome of the human malaria parasite Plasmodium falciparum using amplification-free RNA-seq][Refining]
+
+Want to invstigate our data yourself? Use this [Shiny App][Shiny] I developed for doing so! 
+You should also check out the generous commentary on our study here: [Scientists on a RAMPAGE to find apicomplexan transcription start sites][RAMPAGE]
+
+Additional contributions resulted in the following publications:
+
+* [PfSR1 controls alternative splicing and steady-state RNA levels in Plasmodium falciparum through preferential recognition of specific RNA motifs][PfSR1]
+* [A single nucleotide polymorphism in a Plasmodium berghei ApiAP2 transcription factor alters the development of host immunity][ApiAP2 SNP]
+          
+
+[Adams Lab]: http://ejadamslab.bsd.uchicago.edu/
+[Llinás Lab]: https://www.llinaslab.psu.edu/
+[AP2I]: http://www.cell.com/cell-host-microbe/fulltext/S1931-3128(17)30199-3
+[Refining]: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-06787-5
+[Shiny]: https://pzross.shinyapps.io/shinyplasmo/
+[RAMPAGE]: https://www.nature.com/articles/s41579-021-00587-8
+[PfSR1]: http://onlinelibrary.wiley.com/doi/10.1111/mmi.13007/abstract
+[ApiAP2 SNP]: https://advances.sciencemag.org/content/6/6/eaaw6957.abstract
