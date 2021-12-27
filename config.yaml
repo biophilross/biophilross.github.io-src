@@ -1,0 +1,40 @@
+baseURL: https://biophilross.github.io
+languageCode: en-US
+title: Philipp Ross
+disqusShortname: ''
+googleAnalytics: ''
+theme: hugo-sustain
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+permalinks:
+  post: /:year/:month/:day/:slug
+params:
+  author: Philipp Ross
+  avatar: img/profile.jpg
+  custom_css: []
+  custom_js: []
+  description: Personal website
+  social:
+    Email: philross@uchicago.edu
+    Github: biophilross
+    LinkedIn: philippross
+    RSS: /posts/index.xml
+    Twitter: biophilross
+menu:
+  main:
+    - identifier: publications
+      name: publications
+      url: /publications/
+      weight: 100
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 200
+    - identifier: resources
+      name: resources
+      url: /resources/
+      weight: 300
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+publishDir: '../biophilross.github.io'
